@@ -31,3 +31,5 @@ Analytical Techniques include:
 
 ### Data Visualization
 * **U.S. Economic Indicators Analysis Dashboard:** Overview of major economic indicators and trends.
+
+![U.S.Economic Indicators Analysis Dashboard](PNG U.S. Economic Indicators Analysis Dashboard.png)
