@@ -30,4 +30,4 @@ Analytical Techniques include:
 * **Statistical Analysis:** Descriptive statistics, correlation, and comparisons across economic periods.
 
 ### Data Visualization
-* 
+* **U.S. Economic Indicators Analysis Dashboard:** Overview of major economic indicators and trends.
