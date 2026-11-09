@@ -36,4 +36,12 @@ Analytical Techniques include:
 
 * **Descriptive Statistics Dashboard:** Statistical summaries and relationships between indicators.
 
-![Descriptive Statistics Dashboard]
+![Descriptive Statistics Dashboard](PNG%20Statistical%20Analysis%20Dashboard.png)
+
+* **Lag Analysis Dashboard:** Investigation of the correlation between federal funds rates and inflation 3, 6, and 12 months later.
+
+![Lag Analysis Dashboard](PNG%20Lag%20Analysis%20Dashboard.png)
+
+* **COVID-19 Era Comparison Dashboard:** Comparison of the economic indicators before, during and after the COVID-19 period.
+
+![COVID-19 Era Comparison Dashboard](PNG%20Covid-19%20Era%20Comparison%20Dashboard.png)
